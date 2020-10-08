@@ -2,7 +2,7 @@
 #### 安装部署
 - 克隆
 ``` shell?linenums
-git clone https://github.com/beadlike/chat_room.git
+git clone https://github.com/beadlike/Chat.git
 ```
 - 服务器端
 ``` shell?linenums
